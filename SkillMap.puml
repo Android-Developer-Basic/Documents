@@ -158,5 +158,7 @@ right side
 *** Состояние (state) в Compose-приложениях
 *** Композиция и Side-эффекты в Compose-приложениях
 
+** Android изнутри
+*** Как работает Android изнутри - процессы, потоки, IPC, Intent
 
 @endmindmap
